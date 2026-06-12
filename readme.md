@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="img/preview.jpg" alt="Sliced Material Preview" width="100%">
+</p>
+
 # Three.js TSL
 
 ## Setup
